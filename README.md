@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Ian Shi 👋
 
-<!--
-**IanShiii/IanShiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer / Assistant Director of Newbie Relations** at [StuyPulse](https://stuypulse.com)
 
-Here are some ideas to get you started:
+**Secratary** at Youth Academic Initiative (YAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tutor** at [Youth4AM](https://www.youth4am.org/)
+
+How to reach me: 
+
+<p align="left">
+  <a href="https://www.instagram.com/a_tree_named_ian/"><img src="https://img.shields.io/badge/Instagram-rgb(131, 58, 180)?style=for-the-badge"></a>
+  <a href="discordapp.com/users/566824526638481418"><img src="https://img.shields.io/badge/Discord-rgb(65, 105, 225)?style=for-the-badge"></a>
+  <a href="https://www.facebook.com/Ian.Shi.1026/"><img src="https://img.shields.io/badge/Facebook-rgb(100, 149, 237)?style=for-the-badge"></a>
+  <a href="mailto:ianshi1026@gmail.com"><img src="https://img.shields.io/badge/Email-rgb(50,205,50)?style=for-the-badge"></a>
+</p>
+
