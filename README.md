@@ -1,11 +1,5 @@
 # Hi, I'm Ian Shi 👋
 
-**Software Engineer / Assistant Director of Newbie Relations** at [StuyPulse](https://stuypulse.com)
-
-**Secretary** at Youth Academic Initiative (YAI)
-
-**Tutor** at [Youth4AM](https://www.youth4am.org/)
-
 <p align="left">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=IanShiii&count_private=true&show_icons=true&theme=dark" height="160px"> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanShiii&layout=compact&hide=Dockerfile&exclude_repo=stuycs-annual&theme=dark&size_weight=0.5&count_weight=0.5" height="160px">
