@@ -1,7 +1,7 @@
 # Hi, I'm Ian Shi 👋
 
 <p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=IanShiii&count_private=true&show_icons=true&theme=dark" height="160px"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=IanShiii&count_private=true&show_icons=true&theme=dark" height="160px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanShiii&layout=compact&hide=Dockerfile&exclude_repo=stuycs-annual&theme=dark&size_weight=0.5&count_weight=0.5" height="160px">
 </p>
 
