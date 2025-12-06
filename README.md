@@ -1,14 +1,21 @@
-# Hi, I'm Ian Shi 👋
+# Hi, I'm Ian Shi
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IanShiii&count_private=true&show_icons=true&theme=dark" height="160px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanShiii&layout=compact&hide=Dockerfile&exclude_repo=stuycs-annual&theme=dark&size_weight=0.5&count_weight=0.5" height="160px">
-</p>
+I make robots. Sometimes they listen.
 
-<p align="left">
-<!--   <a href="https://www.instagram.com/a_tree_named_ian/"><img src="https://img.shields.io/badge/Instagram-rgb(131, 58, 180)?style=for-the-badge"></a> -->
-<!--   <a href="https://discordapp.com/users/566824526638481418"><img src="https://img.shields.io/badge/Discord-rgb(65, 105, 225)?style=for-the-badge"></a> -->
-<!--   <a href="https://www.facebook.com/Ian.Shi.1026/"><img src="https://img.shields.io/badge/Facebook-rgb(100, 149, 237)?style=for-the-badge"></a> -->
-<!--   <a href="mailto:ianshi1026@gmail.com"><img src="https://img.shields.io/badge/Email-rgb(50,205,50)?style=for-the-badge"></a> -->
-</p>
+```cpp
+struct Ian {
+    std::string name = "Ian";
+    std::string pronouns = "he/him";
 
+    std::vector<std::string> languages = {"C", "C++", "Python", "Java"};
+    std::string status = "Student at Carnegie Mellon University";
+    std::string major = "Computer Science + Robotics";
+    std::string location = "Pittsburgh, PA";
+};
+```
+
+![](https://github-readme-stats.vercel.app/api?username=IanShiii&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IanShiii&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IanShiii&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ianshi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ianshi1026@gmail.com)
