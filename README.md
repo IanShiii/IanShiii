@@ -7,7 +7,7 @@ struct Ian {
     std::string name = "Ian";
     std::string pronouns = "he/him";
 
-    std::vector<std::string> languages = {"C", "C++", "Python", "Java"};
+    std::vector<std::string> languages = {"C", "C++", "Python"};
     std::string status = "Student at Carnegie Mellon University";
     std::string major = "Computer Science + Robotics";
     std::string location = "Pittsburgh, PA";
